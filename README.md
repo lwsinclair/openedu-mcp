@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cicatriiz-openedu-mcp-badge.png)](https://mseep.ai/app/cicatriiz-openedu-mcp)
+
 # OpenEdu MCP Server
 
 A comprehensive Model Context Protocol (MCP) server designed to provide educational resources and support curriculum planning for educators. This server integrates with multiple educational APIs to provide access to books, articles, definitions, and research papers with intelligent educational filtering and grade-level appropriateness.
